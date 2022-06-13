@@ -1,0 +1,3 @@
+name: NurexCore
+version: 1.0-ALPHA
+main: dev.jbull.core.loader.SpigotLoader

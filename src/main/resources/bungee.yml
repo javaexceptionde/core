@@ -1,0 +1,2 @@
+main: dev.jbull.core.loader.BungeecordLoader
+name: Core
